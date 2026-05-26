@@ -1,4 +1,4 @@
-![Github badge](https://github.com/Cradys/learn-cicd-typescript-starter/actions/workflows/ci/badge.svg)
+![Github badge](https://github.com/Cradys/learn-cicd-typescript-starter/actions/workflows/ci.yaml/badge.svg)
 
 # learn-cicd-typescript-starter (Notely)
 
