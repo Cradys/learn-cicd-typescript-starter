@@ -8,7 +8,7 @@ describe('auth test', () => {
     const headers: IncomingHttpHeaders = {
       authorization: 'ApiKey token'
     }
-    expect(getAPIKey(headers)).toBe("tokenB")
+    expect(getAPIKey(headers)).toBe("token")
   })
 
   test("empty auth header", () => {
